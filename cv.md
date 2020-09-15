@@ -1,4 +1,4 @@
-**#MAXIM KOMAROV – SQL DEVELOPER**
+**# MAXIM KOMAROV – SQL DEVELOPER**
 
 -------------
 
@@ -11,14 +11,14 @@ e-mail: maksim.komarov01@gmail.com
 
 
 
-**##SUMMARY**
+**## SUMMARY**
 
 
-###SQL developer with experience in	
+### SQL developer with experience in	
 
     *	Microsoft SQL Server
 
-##Skills:
+## Skills:
 
     *	SSRS
 
@@ -32,7 +32,7 @@ e-mail: maksim.komarov01@gmail.com
 
 
 
-**##WORK EXPERIENCE**
+**## WORK EXPERIENCE**
 
 **December 2018 - Present**
 
@@ -44,7 +44,7 @@ e-mail: maksim.komarov01@gmail.com
 
 
 
-**##EDUCATION**
+**## EDUCATION**
 
 **Graduation Year:** 2019
 
