@@ -12,11 +12,13 @@ e-mail: maksim.komarov01@gmail.com
 
 
 **##SUMMARY**
+
+
 ###SQL developer with experience in	
 
     *	Microsoft SQL Server
 
-###Skills:
+##Skills:
 
     *	SSRS
 
